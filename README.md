@@ -19,8 +19,7 @@ This is a bot that scans for potential arbitrage opportunities on the Binance cr
 - Navigate to the project directory:
   cd binance-triangular-arbitrage-scanner
 - Install the dependencies:
-  npm i axios
-  npm i chalk
+  npm i axios chalk
 
 # Usage
 To start scanning for arbitrage opportunities, run the following command:
